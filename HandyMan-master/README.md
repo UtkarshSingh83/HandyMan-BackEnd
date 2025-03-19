@@ -1,2 +1,2 @@
-Website is Live at render:
-https://handyman-1.onrender.com/
+Website is Live at Vercel:
+https://handy-man-brown.vercel.app/
